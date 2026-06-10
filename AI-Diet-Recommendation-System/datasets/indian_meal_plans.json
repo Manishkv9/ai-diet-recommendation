@@ -1,0 +1,1982 @@
+[
+    {
+        "meal_name": "Poha With Vegetables",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 300,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 280,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (Standard Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 305,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (Standard Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 282,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (Large Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 310,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (Large Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 284,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (Extra Protein)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 315,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (Extra Protein)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 286,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (Low Carb Option)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 320,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (Low Carb Option)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 288,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (Light Meal)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 325,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (Light Meal)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 290,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (Hearty Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 330,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (Hearty Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 292,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (With Extra Veggies)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 335,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (With Extra Veggies)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 294,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (High Fiber)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 340,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (High Fiber)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 296,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Poha With Vegetables (Variation 9)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 345,
+        "protein": 8,
+        "carbs": 45,
+        "fat": 10
+    },
+    {
+        "meal_name": "Idli Sambar (Variation 9)",
+        "meal_type": "breakfast",
+        "diet_goal": "Maintenance",
+        "calories": 298,
+        "protein": 10,
+        "carbs": 40,
+        "fat": 6
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 450,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (Standard Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 455,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (Large Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 460,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (Extra Protein)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 465,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (Low Carb Option)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 470,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (Light Meal)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 475,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (Hearty Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 480,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (With Extra Veggies)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 485,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (High Fiber)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 490,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chapati, Dal, Sabzi (Variation 9)",
+        "meal_type": "lunch",
+        "diet_goal": "Maintenance",
+        "calories": 495,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 12
+    },
+    {
+        "meal_name": "Chicken Curry & Rice",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 500,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (Standard Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 505,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (Large Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 510,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (Extra Protein)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 515,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (Low Carb Option)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 520,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (Light Meal)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 525,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (Hearty Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 530,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (With Extra Veggies)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 535,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (High Fiber)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 540,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Chicken Curry & Rice (Variation 9)",
+        "meal_type": "dinner",
+        "diet_goal": "Maintenance",
+        "calories": 545,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+    },
+    {
+        "meal_name": "Roasted Chana & Tea",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 150,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (Standard Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 152,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (Large Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 154,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (Extra Protein)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 156,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (Low Carb Option)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 158,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (Light Meal)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 160,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (Hearty Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 162,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (With Extra Veggies)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 164,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (High Fiber)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 166,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Roasted Chana & Tea (Variation 9)",
+        "meal_type": "snack",
+        "diet_goal": "Maintenance",
+        "calories": 168,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 250,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 220,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (Standard Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 253,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (Standard Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 223,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (Large Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 256,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (Large Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 226,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (Extra Protein)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 259,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (Extra Protein)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 229,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (Low Carb Option)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 262,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (Low Carb Option)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 232,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (Light Meal)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 265,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (Light Meal)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 235,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (Hearty Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 268,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (Hearty Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 238,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (With Extra Veggies)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 271,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (With Extra Veggies)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 241,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (High Fiber)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 274,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (High Fiber)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 244,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Oats Upma (Variation 9)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 277,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 6
+    },
+    {
+        "meal_name": "Moong Dal Chilla (Variation 9)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Loss",
+        "calories": 247,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 5
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 380,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (Standard Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 385,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (Large Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 390,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (Extra Protein)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 395,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (Low Carb Option)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 400,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (Light Meal)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 405,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (Hearty Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 410,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (With Extra Veggies)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 415,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (High Fiber)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 420,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Brown Rice, Dal, Salad (Variation 9)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Loss",
+        "calories": 425,
+        "protein": 18,
+        "carbs": 50,
+        "fat": 8
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 350,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (Standard Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 355,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (Large Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 360,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (Extra Protein)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 365,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (Low Carb Option)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 370,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (Light Meal)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 375,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (Hearty Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 380,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (With Extra Veggies)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 385,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (High Fiber)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 390,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Grilled Fish & Veggies (Variation 9)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Loss",
+        "calories": 395,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 10
+    },
+    {
+        "meal_name": "Fruit Bowl",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 100,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (Standard Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 102,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (Large Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 104,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (Extra Protein)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 106,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (Low Carb Option)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 108,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (Light Meal)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 110,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (Hearty Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 112,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (With Extra Veggies)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 114,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (High Fiber)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 116,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Fruit Bowl (Variation 9)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Loss",
+        "calories": 118,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 150,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (Standard Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 152,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (Large Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 154,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (Extra Protein)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 156,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (Low Carb Option)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 158,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (Light Meal)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 160,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (Hearty Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 162,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (With Extra Veggies)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 164,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (High Fiber)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 166,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Boiled Egg Whites & Spinach (Variation 9)",
+        "meal_type": "breakfast",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 168,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 2
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 250,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (Standard Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 255,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (Large Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 260,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (Extra Protein)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 265,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (Low Carb Option)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 270,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (Light Meal)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 275,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (Hearty Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 280,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (With Extra Veggies)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 285,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (High Fiber)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 290,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Chicken Breast & Cucumber Salad (Variation 9)",
+        "meal_type": "lunch",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 295,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 5
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 200,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (Standard Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 205,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (Large Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 210,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (Extra Protein)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 215,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (Low Carb Option)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 220,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (Light Meal)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 225,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (Hearty Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 230,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (With Extra Veggies)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 235,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (High Fiber)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 240,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Paneer Tikka (Dry) (Variation 9)",
+        "meal_type": "dinner",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 245,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 8
+    },
+    {
+        "meal_name": "Green Tea & Almonds",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 80,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (Standard Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 82,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (Large Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 84,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (Extra Protein)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 86,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (Low Carb Option)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 88,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (Light Meal)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 90,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (Hearty Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 92,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (With Extra Veggies)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 94,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (High Fiber)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 96,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Green Tea & Almonds (Variation 9)",
+        "meal_type": "snack",
+        "diet_goal": "Aggressive Weight Loss",
+        "calories": 98,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 6
+    },
+    {
+        "meal_name": "Sprouts Salad",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 120,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (Standard Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 122,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (Large Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 124,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (Extra Protein)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 126,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (Low Carb Option)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 128,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (Light Meal)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 130,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (Hearty Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 132,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (With Extra Veggies)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 134,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (High Fiber)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 136,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Sprouts Salad (Variation 9)",
+        "meal_type": "breakfast",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 138,
+        "protein": 10,
+        "carbs": 18,
+        "fat": 1
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 180,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (Standard Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 185,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (Large Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 190,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (Extra Protein)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 195,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (Low Carb Option)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 200,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (Light Meal)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 205,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (Hearty Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 210,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (With Extra Veggies)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 215,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (High Fiber)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 220,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Clear Vegetable Soup & Tofu (Variation 9)",
+        "meal_type": "lunch",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 225,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 4
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 200,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (Standard Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 205,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (Large Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 210,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (Extra Protein)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 215,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (Low Carb Option)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 220,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (Light Meal)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 225,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (Hearty Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 230,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (With Extra Veggies)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 235,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (High Fiber)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 240,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Steamed Broccoli & Chicken (Variation 9)",
+        "meal_type": "dinner",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 245,
+        "protein": 30,
+        "carbs": 10,
+        "fat": 3
+    },
+    {
+        "meal_name": "Cucumber Slices",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 30,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (Standard Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 31,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (Large Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 32,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (Extra Protein)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 33,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (Low Carb Option)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 34,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (Light Meal)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 35,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (Hearty Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 36,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (With Extra Veggies)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 37,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (High Fiber)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 38,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Cucumber Slices (Variation 9)",
+        "meal_type": "snack",
+        "diet_goal": "Medical Weight Loss",
+        "calories": 39,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 500,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (Standard Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 510,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (Large Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 520,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (Extra Protein)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 530,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (Low Carb Option)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 540,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (Light Meal)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 550,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (Hearty Portion)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 560,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (With Extra Veggies)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 570,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (High Fiber)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 580,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Aloo Paratha With Butter & Curd (Variation 9)",
+        "meal_type": "breakfast",
+        "diet_goal": "Weight Gain",
+        "calories": 590,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "meal_name": "Mutton Biryani",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 700,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (Standard Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 715,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (Large Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 730,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (Extra Protein)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 745,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (Low Carb Option)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 760,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (Light Meal)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 775,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (Hearty Portion)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 790,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (With Extra Veggies)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 805,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (High Fiber)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 820,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Mutton Biryani (Variation 9)",
+        "meal_type": "lunch",
+        "diet_goal": "Weight Gain",
+        "calories": 835,
+        "protein": 35,
+        "carbs": 70,
+        "fat": 25
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 650,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (Standard Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 660,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (Large Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 670,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (Extra Protein)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 680,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (Low Carb Option)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 690,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (Light Meal)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 700,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (Hearty Portion)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 710,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (With Extra Veggies)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 720,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (High Fiber)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 730,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Paneer Butter Masala & Naan (Variation 9)",
+        "meal_type": "dinner",
+        "diet_goal": "Weight Gain",
+        "calories": 740,
+        "protein": 20,
+        "carbs": 65,
+        "fat": 30
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 400,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (Standard Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 405,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (Large Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 410,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (Extra Protein)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 415,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (Low Carb Option)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 420,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (Light Meal)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 425,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (Hearty Portion)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 430,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (With Extra Veggies)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 435,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (High Fiber)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 440,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "meal_name": "Peanut Butter Banana Smoothie (Variation 9)",
+        "meal_type": "snack",
+        "diet_goal": "Weight Gain",
+        "calories": 445,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 18
+    }
+]

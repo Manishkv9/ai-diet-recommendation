@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Diet Recommendation System — Personalized Nutrition</title>
+    <meta name="description" content="Get personalized diet recommendations powered by machine learning. Analyze your BMI, predict weight category, and receive a professional AI-generated meal plan.">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <div class="logo">
+                <span class="logo-icon">🍏</span>
+                <span class="logo-highlight">AI</span> Diet System
+            </div>
+            <p>Personalized nutrition strategies powered by Machine Learning</p>
+        </header>
+
+        <main>
+            <form id="prediction-form">
+
+                <!-- ===== Section 1: Personal Information ===== -->
+                <div class="form-section">
+                    <div class="section-header">
+                        <div class="section-icon personal">👤</div>
+                        <h3>Personal Information</h3>
+                    </div>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="field-gender">Gender</label>
+                            <select name="Gender" id="field-gender" required>
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-age">Age</label>
+                            <input type="number" name="Age" id="field-age" min="10" max="100" value="25" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-height">Height (m)</label>
+                            <input type="number" step="0.01" name="Height" id="field-height" min="1.0" max="2.5" value="1.75" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-weight">Weight (kg)</label>
+                            <input type="number" step="0.1" name="Weight" id="field-weight" min="20" max="250" value="70" required>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ===== Section 2: Lifestyle Habits ===== -->
+                <div class="form-section">
+                    <div class="section-header">
+                        <div class="section-icon lifestyle">🏃</div>
+                        <h3>Lifestyle Habits</h3>
+                    </div>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="field-faf">Physical Activity Level</label>
+                            <select name="FAF" id="field-faf" required>
+                                <option value="0.0">No physical activity</option>
+                                <option value="1.0" selected>1–2 days per week</option>
+                                <option value="2.0">2–4 days per week</option>
+                                <option value="3.0">4–5 days per week</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-ch2o">Daily Water Intake</label>
+                            <select name="CH2O" id="field-ch2o" required>
+                                <option value="1.0">Less than 1 liter</option>
+                                <option value="2.0" selected>Between 1 and 2 liters</option>
+                                <option value="3.0">More than 2 liters</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-tue">Screen Time</label>
+                            <select name="TUE" id="field-tue" required>
+                                <option value="0.0">0–2 hours</option>
+                                <option value="1.0" selected>3–5 hours</option>
+                                <option value="2.0">More than 5 hours</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-mtrans">Transportation Method</label>
+                            <select name="MTRANS" id="field-mtrans" required>
+                                <option value="Automobile">Automobile</option>
+                                <option value="Motorbike">Motorbike</option>
+                                <option value="Bike">Bicycle</option>
+                                <option value="Public_Transportation" selected>Public Transportation</option>
+                                <option value="Walking">Walking</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ===== Section 3: Eating Habits ===== -->
+                <div class="form-section">
+                    <div class="section-header">
+                        <div class="section-icon eating">🍽️</div>
+                        <h3>Eating Habits</h3>
+                    </div>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="field-ncp">Meals Per Day</label>
+                            <select name="NCP" id="field-ncp" required>
+                                <option value="1.0">Between 1 and 2</option>
+                                <option value="2.0">Three</option>
+                                <option value="3.0" selected>More than three</option>
+                                <option value="4.0">Four or more</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-caec">Snacking Frequency</label>
+                            <select name="CAEC" id="field-caec" required>
+                                <option value="no">No</option>
+                                <option value="Sometimes" selected>Sometimes</option>
+                                <option value="Frequently">Frequently</option>
+                                <option value="Always">Always</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-fcvc">Vegetable Intake</label>
+                            <select name="FCVC" id="field-fcvc" required>
+                                <option value="1.0">Never</option>
+                                <option value="2.0" selected>Sometimes</option>
+                                <option value="3.0">Always</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-favc">High-Calorie Food Frequency</label>
+                            <select name="FAVC" id="field-favc" required>
+                                <option value="yes">Yes</option>
+                                <option value="no">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-scc">Calorie Tracking</label>
+                            <select name="SCC" id="field-scc" required>
+                                <option value="yes">Yes</option>
+                                <option value="no" selected>No</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ===== Section 4: Other Factors ===== -->
+                <div class="form-section">
+                    <div class="section-header">
+                        <div class="section-icon other">📋</div>
+                        <h3>Other Factors</h3>
+                    </div>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="field-family">Family History of Overweight</label>
+                            <select name="family_history_with_overweight" id="field-family" required>
+                                <option value="yes">Yes</option>
+                                <option value="no">No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-smoke">Smoking</label>
+                            <select name="SMOKE" id="field-smoke" required>
+                                <option value="yes">Yes</option>
+                                <option value="no" selected>No</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="field-calc">Alcohol Consumption</label>
+                            <select name="CALC" id="field-calc" required>
+                                <option value="no">I do not drink</option>
+                                <option value="Sometimes" selected>Sometimes</option>
+                                <option value="Frequently">Frequently</option>
+                                <option value="Always">Always</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button type="submit" id="submit-btn" class="btn-primary">Generate Diet Plan</button>
+                </div>
+            </form>
+
+            <!-- Loading -->
+            <div id="loading" class="hidden">
+                <div class="spinner"></div>
+                <p>Analyzing your profile with ML &amp; AI…</p>
+            </div>
+
+            <!-- Results -->
+            <section id="results-container" class="hidden">
+                
+                <!-- 3-stat dashboard -->
+                <div class="dashboard-header">
+                    <div class="stat-box" id="bmi-card">
+                        <span class="stat-icon">⚖️</span>
+                        <span class="stat-label">Body Mass Index</span>
+                        <h3 class="stat-value" id="bmi-value">—</h3>
+                        <span class="stat-subtitle" id="bmi-category">—</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-icon">🔬</span>
+                        <span class="stat-label">Predicted Weight Category</span>
+                        <h3 id="obesity-badge" class="stat-value text-primary">—</h3>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-icon">🎯</span>
+                        <span class="stat-label">Recommended Goal</span>
+                        <h3 id="goal-badge" class="stat-value text-success">—</h3>
+                    </div>
+                </div>
+
+                <!-- AI Insights -->
+                <div class="gemini-card">
+                    <div class="gemini-header">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+                        </svg>
+                        <h3>AI Dietitian Insights</h3>
+                    </div>
+                    <p id="ai-text"></p>
+                </div>
+
+                <!-- Meal Plan -->
+                <div class="meals-card">
+                    <h3>Today's Recommended Meal Plan</h3>
+                    
+                    <div class="meal-period">
+                        <div class="meal-period-header">🌅 Breakfast</div>
+                        <ul id="breakfast-list" class="meal-list"></ul>
+                    </div>
+
+                    <div class="meal-period">
+                        <div class="meal-period-header">☀️ Lunch</div>
+                        <ul id="lunch-list" class="meal-list"></ul>
+                    </div>
+
+                    <div class="meal-period">
+                        <div class="meal-period-header">🌙 Dinner</div>
+                        <ul id="dinner-list" class="meal-list"></ul>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
